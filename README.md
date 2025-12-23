@@ -131,6 +131,6 @@ For any inquiries or issues, please contact the development team.
 
 ---
 
-**Developed by:** [Developer/Company Name]  
-**Delivery Date:** [Date]  
+**Developed by:** [Ahmed Ashraf]  ahmeda.saber22@gmail.com
+**Delivery Date:** [23/12/2025]  
 **Version:** 1.0.0
