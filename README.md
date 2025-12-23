@@ -2,8 +2,6 @@
 
 A simple and elegant calculator application built with Flutter.
 
-## 📱 Screenshots
-
 The app features a clean and user-friendly interface with:
 - Display screen for calculations and results
 - Large, clear buttons for numbers and operations
@@ -132,5 +130,5 @@ For any inquiries or issues, please contact the development team.
 ---
 
 **Developed by:** [Ahmed Ashraf]
-**Delivery Date:** [23/12/2025]  
+**Delivery Date:** [23/12/2025]
 **Version:** 1.0.0
