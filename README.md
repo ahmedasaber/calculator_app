@@ -34,7 +34,7 @@ Before running the app, make sure you have installed:
 ### 1. Clone the Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ahmedasaber/calculator_app
 cd calculator_app
 ```
 
